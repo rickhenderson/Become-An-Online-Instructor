@@ -101,9 +101,9 @@ Take a look at http://canvas.instructure.com
 * Start students slowly, don't overwhelm students.
 
 * SAMR: Integrating Technology into instruction:
-** Online instructors must learn to distinguish between gimmicks and game-changers.
-** **S**ubstitution, **A**ugmentation, **M**odification, **R**edefinition 
-** Created by Ruben Puentedura
+  * Online instructors must learn to distinguish between gimmicks and game-changers.
+  * **S**ubstitution, **A**ugmentation, **M**odification, **R**edefinition 
+  * Created by Ruben Puentedura
 * Substitution: Direct substitute - Task remains the same (reading) but the tool changes (Chromebook or ebook vs. trad book)
 * Augmentation: Direct substitute with functional change
 	** Using Google Docs to write a paper using online spellcheck
