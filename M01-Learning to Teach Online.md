@@ -17,7 +17,7 @@
 ## What skills are required to teach online?
 
 * Digital Access
-** Desktop or laptop, as well as Chromebook, or smartphone
+  * Desktop or laptop, as well as Chromebook, or smartphone
 * Course platform such as a Learning Management like Canvas, D2L, or Moodle
 * Video editing software
 * Audio hardware
@@ -37,10 +37,10 @@
 
 ## Speaking the Language of Online Learning
 * Learning Management Systems
-** An online platform used to manage an online course: Canvas, Moodle, Schoology, Blackboard, Edmodo
-** some have an app
+  * An online platform used to manage an online course: Canvas, Moodle, Schoology, Blackboard, Edmodo
+  * some have an app
 * Devices
-** You'll be using a computer, but your students will be using a wide variety of devices to access your course
+  * You'll be using a computer, but your students will be using a wide variety of devices to access your course
 
 Ideas for student assignments or as references:
 * Using social media
@@ -76,18 +76,18 @@ Ideas for student assignments or as references:
 ## Learning Management Systems
 
 * Online platforms to allow teachers to
-** Create an online course
-** Add assignments
-** Add resources
-** Grade Assignments
-** Communicate with students
+  * Create an online course
+  * Add assignments
+  * Add resources
+  * Grade Assignments
+  * Communicate with students
 
 * Online platforms to allow students to
-** Access an online class
-** Access syllabus and assignments
-** Find and use class resources
-** Turn-in assignmetns/view grades
-** Communicate with the instructor
+  * Access an online class
+  * Access syllabus and assignments
+  * Find and use class resources
+  * Turn-in assignmetns/view grades
+  * Communicate with the instructor
 
 Take a look at http://canvas.instructure.com
 
@@ -106,6 +106,6 @@ Take a look at http://canvas.instructure.com
   * Created by Ruben Puentedura
 * Substitution: Direct substitute - Task remains the same (reading) but the tool changes (Chromebook or ebook vs. trad book)
 * Augmentation: Direct substitute with functional change
-	** Using Google Docs to write a paper using online spellcheck
+  * Using Google Docs to write a paper using online spellcheck
 * Modification: significant re-design the task: Cobaborative slide presentation, practice speeches using video
 * Redefinition: technology allows to re-definie or create new tasks: Create a documentary, Flipped classes, allow them to make a podcast
