@@ -25,4 +25,51 @@
 * Wireless mouse or keyboard
 * Printer
 * Portable USB drive
+
+## Skills 
 * Technical skills (digital literacy) - uploading and downloading files, troubleshooting, etc.
+* Instructional design skills
+* Organization
+* Time managment
+* Flexible schedule
+* Online communication - including writing skills
+* Ability to inspire communication and collaboration
+
+## Speaking the Language of Online Learning
+* Learning Management Systems
+** An online platform used to manage an online course: Canvas, Moodle, Schoology, Blackboard, Edmodo
+** some have an app
+* Devices
+** You'll be using a computer, but your students will be using a wide variety of devices to access your course
+
+Ideas for student assignments or as references:
+* Using social media
+* Flipped classes
+* Multimedia
+* Ebooks
+* Blogs
+
+## Online Tools
+* Videoconferencing
+* cloud-based storage
+* screen capture ( snagit, screencast-o-matic)
+* forums
+
+## Online Education Concepts
+* Digital etiquette (netiqutte)
+* Digital citizenship - digital law, anti-bullying, copyright infringement, plagiarism, ecommerice
+* Digital literacy
+* Mobile learning
+* Self-paced learning
+* Gamification
+* Self-assessment
+
+## General Technology
+* Operating System
+* Browser
+* URL
+* Links
+* Software or apps
+
+# 2.0 Essential Elements of Teaching Online
+
