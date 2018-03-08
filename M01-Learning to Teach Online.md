@@ -12,4 +12,4 @@
 
 **synchronous:** students and instructor meet at the same time
 
-**asynchronous:** students and instructor do not meet at the same time, usually self paced.
+**asynchronous:** students and instructor do not meet at the same time, usually self paced. Will not have due dates or deadlines.
