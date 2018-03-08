@@ -1,5 +1,5 @@
 # Learning to Teach Online
-**Instructor: <a href="https://twitter.com/schink10?lang=en">Oliver Shinkten</a>
+**Instructor:** <a href="https://twitter.com/schink10?lang=en">Oliver Shinkten</a>
 
 * Basic definitions
 
@@ -11,4 +11,5 @@
 ## Synchronous vs. Asynchronous
 
 **synchronous:** students and instructor meet at the same time
+
 **asynchronous:** students and instructor do not meet at the same time, usually self paced.
