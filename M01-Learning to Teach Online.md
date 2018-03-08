@@ -73,3 +73,39 @@ Ideas for student assignments or as references:
 
 # 2.0 Essential Elements of Teaching Online
 
+## Learning Management Systems
+
+* Online platforms to allow teachers to
+** Create an online course
+** Add assignments
+** Add resources
+** Grade Assignments
+** Communicate with students
+
+* Online platforms to allow students to
+** Access an online class
+** Access syllabus and assignments
+** Find and use class resources
+** Turn-in assignmetns/view grades
+** Communicate with the instructor
+
+Take a look at http://canvas.instructure.com
+
+* Canvas: nice UI, dragable components
+* Schoology: Cute icons
+* Moodle: similar, feature rich
+
+## Incorporating Technology: The SAMR Model
+* The myth that students are good at technology. While they may be good at somethings, they rae not good at using
+ technology tools to be more productive, or for learning.
+* Start students slowly, don't overwhelm students.
+
+* SAMR: Integrating Technology into instruction:
+** Online instructors must learn to distinguish between gimmicks and game-changers.
+** **S**ubstitution, **A**ugmentation, **M**odification, **R**edefinition 
+** Created by Ruben Puentedura
+* Substitution: Direct substitute - Task remains the same (reading) but the tool changes (Chromebook or ebook vs. trad book)
+* Augmentation: Direct substitute with functional change
+	** Using Google Docs to write a paper using online spellcheck
+* Modification: significant re-design the task: Cobaborative slide presentation, practice speeches using video
+* Redefinition: technology allows to re-definie or create new tasks: Create a documentary, Flipped classes, allow them to make a podcast
